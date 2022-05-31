@@ -1,0 +1,8 @@
+{
+    "python.linting.flaks8Enable": true,
+
+    "python.linting.pylintEnable": false,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+
+}
